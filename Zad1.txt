@@ -1,0 +1,5 @@
+Czym jest S3 bucket?
+    S3 bucket jest pojemnikiem / kontenerem na obiekty, czyli pliki i dane, które będą przechowywane w chmurze.
+    Jest to o wiele lepsza opcja od standardowego tworzenia racków z dedykowanymi serwerami, które muszą
+    być obługiwane przez wyszkolony personel. Zaoszczędzony czas oraz pieniądze, można przeznaczyć na rozwój własnego
+    projektu lub powiększenie zespołu.
