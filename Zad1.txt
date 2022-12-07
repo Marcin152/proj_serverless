@@ -1,6 +1,29 @@
 Czym jest S3 bucket?
-    S3 bucket jest pojemnikiem / kontenerem na obiekty, czyli pliki i dane, które będą przechowywane w chmurze.
+    -S3 bucket jest pojemnikiem / kontenerem na obiekty, czyli pliki i dane, które będą przechowywane w chmurze.
+
+Funkcjonalności:
+    -Przechowywanie kopii zapasowych w razie nieprzewidzianych wypadków
+    -Przechowywanie i wysyłanie plików do strony internetowej
+    -Przechowywanie wielu dancyh do analizy
+    -Przechowywanie logów
+
 Zalety:
-    Jest to o wiele lepsza opcja od standardowego tworzenia racków z dedykowanymi serwerami, które muszą
-    być obługiwane przez wyszkolony personel. Zaoszczędzony czas oraz pieniądze, można przeznaczyć na rozwój własnego
-    projektu lub powiększenie zespołu.
+    -Niski koszt utrzymania
+    -Oszczędnośc czasu
+    -Bardzo różnorodne narzędzia
+
+Wady:
+    -Ograniczona liczba środków w niektórych regionach
+    -Możliwe opóźnienia w odebraniu plików
+    -Możlwie luki w ochronie tworzące ryzyko przejęcia danych
+
+Co różni S3 w porównaniu z ABS?
+    -Dane w ABS są przechowywane jako "bloby" w pojemnikach, które istnieja na koncie pamięci. Natomiast w S3 pliki,
+    są przechowywane jako obiekty w "buckets". Te znajdują się w pamięci masowej użytkownika.
+    -ABS posiada 3 poziomowe magazyny danych, które dzielą się od częstego zapisu danych do rzadkiego użytkowania i
+    częstszego przechowywania.
+
+Jakie zastosowania pasują do konkretnych systemów:
+    ABS:
+
+    S3:
