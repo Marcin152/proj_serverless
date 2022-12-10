@@ -25,5 +25,8 @@ Co różni S3 w porównaniu z ABS?
 
 Jakie zastosowania pasują do konkretnych systemów:
     ABS:
-
+           -Przechowywanie ogromnej bazy danych w dużych firmach
+           -Mozliwa analia tych danych w celu poprawy wydjaności firmy
     S3:
+           -hosting stron internetowych z domenami i ich nazwami
+           -aplikacje posiadające osobne bazy jeden bucket dla prywatnego klienta i drugi na dane publiczne
